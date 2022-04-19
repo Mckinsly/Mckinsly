@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Mckinsly
+- 👀 I’m interested in python
+- 🌱 I’m currently learning django
+- 💞️ I’m looking to collaborate on everything
+- 📫 How to reach me 09045031782 or nnamdimckinsly@gmail.com
